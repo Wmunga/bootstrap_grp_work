@@ -1,5 +1,8 @@
 UI Portfolio Website
+
+
 Overview
+
 This project is a personal portfolio website for a UI designer and web developer. The goal was to replicate the design and layout of a provided template, creating a professional and visually appealing site to showcase skills, services, portfolio, and contact information.
 Solution Approach
 The website was developed using a combination of HTML, CSS, and Bootstrap to ensure a responsive and modern design. The approach involved:
